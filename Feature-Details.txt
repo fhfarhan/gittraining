@@ -1,1 +1,5 @@
 Feature-Details: JTId1 ChangeSet-1
+Unit Test Completed
+Static Code Analysis completed
+Feature-Details: JTId1 ChangeSet-2
+Peer Code Review Feedback Integrated
